@@ -6,8 +6,7 @@
 
 Sou apaixonado por criar interfaces bonitas e funcionais. Atualmente focado em:
 
-- HTML5 • CSS3 • JavaScript (ES6+)
-- React.js & Tailwind CSS
+- HTML5 • CSS3 • JavaScript 
 - Aprendendo TypeScript e Next.js
 
 ### Meu primeiro projeto
