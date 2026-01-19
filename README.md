@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+Lucas+👋;Desenvolvedor+Front-end+em+formação" alt="Typing SVG" />
 </div>
+<div align="center">
 Minha jornada na programação está só começando! 🚀
 
 Atualmente estou aprendendo:  
