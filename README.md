@@ -1,24 +1,23 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Olá!+Eu+sou+Lucas+👋;Desenvolvedor+Front-end+em+formação" alt="Typing SVG" />
 </div>
-
-<br/>
 <div align="center">
- Minha jornada na programação está só começando! 🚀
+  <h3>Apaixonado por interfaces bonitas e funcionais ✨</h3>
+</div>
 
-Atualmente estou aprendendo:  
-🔹 **HTML**  
-🔹 **CSS3**  
-🔹 **Git**  
-🔹 **GitHub**  
+Atualmente estou mergulhado no aprendizado de:
 
-E o melhor: realizei meu **primeiro projeto** junto com a Rocketseat!  
-Foi incrível colocar em prática tudo que aprendi no Discover.  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="skills atuais" />
+</p>
 
-Veja o resultado:  
-🌐 **[Projeto Rocket – Landing Page Responsiva](https://lukz0312.github.io/Projeto-Rocket/)**  
+E já dei o primeiro passo importante:  
+**Realizei meu primeiro projeto junto com a Rocketseat!** 🎉  
 
-Cada commit é um passo a mais. Bora codar juntos? 💪❤️hub-readme-streak-stats.herokuapp.com/?user=Lukz0312&theme=dracula&hide_border=true" alt="Streak" width="48%" />
+Confira aqui:  
+👉 **[Projeto Rocket](https://lukz0312.github.io/Projeto-Rocket/)** – landing page 100% responsiva do curso Discover da Rocketseat.
+
+Próximos passos: TypeScript e Next.js no horizonte! 📈
 </div>
 
 <br/>
