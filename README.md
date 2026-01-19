@@ -24,7 +24,7 @@ Sou apaixonado por criar interfaces bonitas e funcionais. Atualmente focado em:
 
 ### Tecnologias que uso/estou estudando
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode" alt="skills" />
 </div>
 
 <br/>
