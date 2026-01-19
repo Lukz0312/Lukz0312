@@ -4,31 +4,21 @@
 
 <br/>
 <div align="center">
-  <h3>Apaixonado por interfaces bonitas e funcionais ✨</h3>
-</div>
+ Minha jornada na programação está só começando! 🚀
 
-Atualmente estou mergulhado no aprendizado de:
+Atualmente estou aprendendo:  
+🔹 **HTML**  
+🔹 **CSS3**  
+🔹 **Git**  
+🔹 **GitHub**  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="skills atuais" />
-</p>
+E o melhor: realizei meu **primeiro projeto** junto com a Rocketseat!  
+Foi incrível colocar em prática tudo que aprendi no Discover.  
 
-E já dei o primeiro passo importante:  
-**Realizei meu primeiro projeto junto com a Rocketseat!** 🎉  
+Veja o resultado:  
+🌐 **[Projeto Rocket – Landing Page Responsiva](https://lukz0312.github.io/Projeto-Rocket/)**  
 
-Confira aqui:  
-👉 **[Projeto Rocket](https://lukz0312.github.io/Projeto-Rocket/)** – landing page 100% responsiva do curso Discover da Rocketseat.
-
-Próximos passos: TypeScript e Next.js no horizonte! 📈
-
-### Meu primeiro projeto
-👉 <a href="https://lukz0312.github.io/Projeto-Rocket/">Projeto Rocketseat</a> – Landing page responsiva feita no curso Discover da Rocketseat
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lukz0312&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukz0312&theme=dracula&hide_border=true" alt="Streak" width="48%" />
+Cada commit é um passo a mais. Bora codar juntos? 💪❤️hub-readme-streak-stats.herokuapp.com/?user=Lukz0312&theme=dracula&hide_border=true" alt="Streak" width="48%" />
 </div>
 
 <br/>
