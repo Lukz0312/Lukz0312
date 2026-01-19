@@ -3,11 +3,23 @@
 </div>
 
 <br/>
+<div align="center">
+  <h3>Apaixonado por interfaces bonitas e funcionais ✨</h3>
+</div>
 
-Sou apaixonado por criar interfaces bonitas e funcionais. Atualmente focado em:
+Atualmente estou mergulhado no aprendizado de:
 
-- HTML5 • CSS3 • JavaScript 
-- Aprendendo TypeScript e Next.js
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="skills atuais" />
+</p>
+
+E já dei o primeiro passo importante:  
+**Realizei meu primeiro projeto junto com a Rocketseat!** 🎉  
+
+Confira aqui:  
+👉 **[Projeto Rocket](https://lukz0312.github.io/Projeto-Rocket/)** – landing page 100% responsiva do curso Discover da Rocketseat.
+
+Próximos passos: TypeScript e Next.js no horizonte! 📈
 
 ### Meu primeiro projeto
 👉 <a href="https://lukz0312.github.io/Projeto-Rocket/">Projeto Rocketseat</a> – Landing page responsiva feita no curso Discover da Rocketseat
