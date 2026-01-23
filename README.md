@@ -14,7 +14,16 @@ E o melhor: realizei meu **primeiro projeto** junto com a Rocketseat!
 Foi incrível colocar em prática tudo que aprendi no Discover.  
 
 Veja o resultado:  
-🌐 **[Projeto Rocket – Landing Page Responsiva](https://lukz0312.github.io/Projeto-Rocket/)**  
+🌐 ## 🚀 Projeto em destaque
+
+🌐 **Projeto Rocket – Landing Page Responsiva**  
+👉 https://lukz0312.github.io/Projeto-Rocket/
+
+Projeto desenvolvido durante o curso Discover da Rocketseat, aplicando fundamentos de:
+- HTML5  
+- CSS3  
+- Git e GitHub  
+
 
 Cada commit é um passo a mais. Bora codar juntos? 💪❤️
 </div>
