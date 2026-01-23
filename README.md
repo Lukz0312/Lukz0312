@@ -20,9 +20,11 @@ Veja o resultado:
 👉 https://lukz0312.github.io/Projeto-Rocket/
 
 Projeto desenvolvido durante o curso Discover da Rocketseat, aplicando fundamentos de:
-- HTML5  
-- CSS3  
-- Git e GitHub  
+🔧 Tecnologias utilizadas:
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
 
 
 Cada commit é um passo a mais. Bora codar juntos? 💪❤️
